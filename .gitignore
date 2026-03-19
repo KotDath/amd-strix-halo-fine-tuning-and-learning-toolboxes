@@ -1,0 +1,12 @@
+cache/
+logs/
+reports/
+outputs/
+.venv/
+.env
+models/*
+!models/.gitkeep
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+unsloth_compiled_cache/
